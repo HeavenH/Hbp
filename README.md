@@ -13,7 +13,8 @@
 ```
     git clone https://github.com/HeavenH/Hbp
     cd Hsp
-    python3 Hsb.py -s http://ctf.sucurihc.org/flag/eua/web50/?pin= -i 750 -f 765 -a SHC -x
+    python3 Hbp.py -s http://ctf.sucurihc.org/flag/eua/web50/?pin= -i 760 -f 765 -a SHC -x
+    python3 Hbp.py -s http://209.190.1.133/pin/pin.php?pin= -i 900 -f 915
 ```
 
 ##### Tested on:
