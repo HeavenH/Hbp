@@ -11,9 +11,9 @@
 
 ####Using:
 ```
-      git clone https://github.com/Heaven/Hbp
+    git clone https://github.com/Heaven/Hbp
     cd Hsp
-    ./Hsp.py -s http://ctf.sucurihc.org/flag/eua/web50/?pin= -i 750 -f 765 -a SHC -x
+    ./Hsb.py -s http://ctf.sucurihc.org/flag/eua/web50/?pin= -i 750 -f 765 -a SHC -x
 ```
 
 ##### Tested on:
