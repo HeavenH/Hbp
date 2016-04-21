@@ -1,5 +1,5 @@
 # HBP
-##Heaven Brute Pin
+##Heaven Brute Pin | Python 3
 
 ![logo](logo.png)
 
@@ -13,7 +13,7 @@
 ```
     git clone https://github.com/HeavenH/Hbp
     cd Hsp
-    ./Hsb.py -s http://ctf.sucurihc.org/flag/eua/web50/?pin= -i 750 -f 765 -a SHC -x
+    python3 Hsb.py -s http://ctf.sucurihc.org/flag/eua/web50/?pin= -i 750 -f 765 -a SHC -x
 ```
 
 ##### Tested on:
