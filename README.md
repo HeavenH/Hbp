@@ -11,7 +11,7 @@
 
 ####Using:
 ```
-    git clone https://github.com/Heaven/Hbp
+    git clone https://github.com/HeavenH/Hbp
     cd Hsp
     ./Hsb.py -s http://ctf.sucurihc.org/flag/eua/web50/?pin= -i 750 -f 765 -a SHC -x
 ```
