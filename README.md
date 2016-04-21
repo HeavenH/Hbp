@@ -14,7 +14,9 @@
     git clone https://github.com/HeavenH/Hbp
     cd Hsp
     python3 Hbp.py -s http://ctf.sucurihc.org/flag/eua/web50/?pin= -i 760 -f 765 -a SHC -x
+    ![img1](img1.png)
     python3 Hbp.py -s http://209.190.1.133/pin/pin.php?pin= -i 900 -f 915
+    ![img1](img2.png)
 ```
 
 ##### Tested on:
