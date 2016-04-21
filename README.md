@@ -2,7 +2,8 @@
 ##Heaven Brute Pin | Python 3
 
 ###Apresentação
-    Um Brute Force via get,espercifico para PIN,com a função de encodar em hex os inteiros e também de filtrar alguma strings
+    Um Brute Force via get,espercifico para PIN,com a função de encodar em hex os inteiros
+    e também de filtrar algum texto
     por enquanto é só isso
     Aproveitem ^^
 
