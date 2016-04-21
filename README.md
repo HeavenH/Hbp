@@ -1,7 +1,10 @@
 # HBP
 ##Heaven Brute Pin | Python 3
 
-![logo](logo.png)
+###Apresentação
+    Um Brute Force via get,espercifico para PIN,com a função de encodar em hex os inteiros e também de filtrar alguma strings
+    por enquanto é só isso
+    Aproveitem ^^
 
 ```
     [+] AUTOR:        Gilmar Silva
